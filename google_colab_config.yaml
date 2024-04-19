@@ -1,0 +1,13 @@
+
+path: '/content/gdrive/MyDrive/Tortilicious/data' # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train  # val images (relative to 'path')
+
+# Classes
+names:
+  0: logo
+  1: text
+  2: Navigation dots
+  3: input fields
+  4: images
+  5: buttons
